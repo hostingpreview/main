@@ -108,7 +108,4 @@
 			previewForm.style.display = 'block';
 			previewForm.innerText = error;
 		});
-	else
-		previewForm.style.display = 'block';
-
-})()
+	
